@@ -18,5 +18,5 @@ test('Third test', async t => {
 
 test('Forth test', async t => {
     //try to search for "testcafe" in google
-    await t.expect(1).eql(1);
+    await t.expect(1).eql(2);
 });
